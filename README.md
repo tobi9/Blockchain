@@ -1,4 +1,4 @@
-# Blockchiain
+# Blockchain
 A simple functioning blockchain
 
 Guide:
